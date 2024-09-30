@@ -14,6 +14,11 @@
       "title": "New post title",
       "description": "New Post description",
       "id": 3
+    },
+    {
+      "title": "New post with router",
+      "description": "new post router description\n",
+      "id": 4
     }
   ]
 }
