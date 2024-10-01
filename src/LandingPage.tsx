@@ -9,6 +9,9 @@ export function LandingPage() {
       <Link to={'PostsPageRouterLoader'} className="hover:underline block mb-2">
         Posts Using Router Loader
       </Link>
+      <Link to={'PostsPageReactQuery'} className="hover:underline block mb-2">
+        Posts Using React Query
+      </Link>
     </div>
   );
 }
